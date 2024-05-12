@@ -10,7 +10,7 @@
 Заметим, что графики зависимости правдивые, т. е. при росте расстояния число контактов растет. Однако видно, что полученные графики все же разные. 
 Графики 1 и 2 довольно похожи, но на графике 2 больше колебаний. Также графики 3 и 4 тоже похожи, но на 3 графике колебаний больше чем на 4. 
 
-![Image alt](https://github.com/prayforanya/hse24_hw4/blob/main/data/plot1.png?raw=true)
+![Image alt](https://github.com/prayforanya/hse24_hw4/blob/main/data/plot1.png)
 ![Image alt](https://github.com/prayforanya/hse24_hw4/blob/main/data/plot2.png)
 ![Image alt](https://github.com/prayforanya/hse24_hw4/blob/main/data/plot3.png)
 ![Image alt](https://github.com/prayforanya/hse24_hw4/blob/main/data/plot4.png)
