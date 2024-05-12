@@ -1,4 +1,5 @@
 # hse24_hw4
+Все результаты лежат в ноутбуке в папке data, а также прикрепляю ссылку на [colab](https://colab.research.google.com/drive/1R4wRnFsuavVTAVE1wLpe4grbr999rdd7?usp=sharing).
 
 В этом домашнем задании я буду исследовать участок 4,000,000-5,500,000 хромосомы 2R из генома дрозофилы.
 
