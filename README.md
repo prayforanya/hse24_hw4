@@ -12,9 +12,8 @@
 ![image](https://github.com/prayforanya/hse24_hw4/blob/main/data/plot3.png)
 ![image](https://github.com/prayforanya/hse24_hw4/blob/main/data/plot4.png)
 
-Сильные границы выделены желтым, а слабые синим.
+Сильные границы выделены желтым, а слабые синим. Графики insulation score 1 и 2 очень похожи, как 3 и 4. Границы Tad'ов 1 и 2 совпадают. 4 кривая insulation score получилась более сглаженная, поэтому границ Tad'ов у 4 эксперемента меньше видимо так как нет сильных скачков.
 ![image](https://github.com/prayforanya/hse24_hw4/blob/main/data/plot_tad1.png)
 ![image](https://github.com/prayforanya/hse24_hw4/blob/main/data/plot_tad2.png)
 ![image](https://github.com/prayforanya/hse24_hw4/blob/main/data/plot_tad3.png)
 ![image](https://github.com/prayforanya/hse24_hw4/blob/main/data/plot_tad4.png)
-Посмотрим на кривые 
